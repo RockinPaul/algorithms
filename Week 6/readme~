@@ -1,0 +1,26 @@
+Week 6- Scheduling conferences
+
+Description
+
+You are running UCantinhos, a leading event service from the University of Coimbra that prepares thousands of conferences in Coimbra every year. As the number of requests is increasing, you decided to rent conference rooms in hotels to run the events. As you pay per each room, you would like to schedule the events such that the number of conference rooms used is as minimum as possible. Of course, no room can be used for more than one event.
+Input
+
+Each test case starts with the number of events (n). Then, n lines follow, each providing information about the events. The i-th line gives the starting and finishing times, as integers, of the i-th event.
+Output
+
+The output consists of the total number of conference rooms needed.
+Example
+
+Example input:
+
+5
+3 4
+4 6
+2 9
+4 5
+2 7
+
+Example output:
+
+4
+
